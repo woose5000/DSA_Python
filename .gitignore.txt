@@ -1,3 +1,5 @@
 .vscode/
 
 stack/__pycache__/
+
+k
